@@ -1,2 +1,3 @@
-initial commit
 Remote commit
+local commit
+
